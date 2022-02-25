@@ -8,6 +8,10 @@ Bundled / served locally by [Vite](https://vitejs.dev/).
 As written, this POC should migrate back to React with very minimal changes.
 Currently < 100 LOC to implement this little editor.
 
+> TL;DR - Clone the repo, `npm i && npm start` -> http://localhost:3001/
+
+![ezjson](https://user-images.githubusercontent.com/1561673/155810127-8c798a48-4330-4465-bed3-b58c8840ebc9.png)
+
 ---- BOILERPLATE-BELOW ----
 
 ## Usage
