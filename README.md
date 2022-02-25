@@ -1,3 +1,15 @@
+# EZ-JSON
+
+Simple POC for entering key-value pairs for use in JSON / YAML configs.
+
+Built on the [SolidJS](https://github.com/solidjs/solid) starter template for TypeScript.
+Bundled / served locally by [Vite](https://vitejs.dev/).
+
+As written, this POC should migrate back to React with very minimal changes.
+Currently < 100 LOC to implement this little editor.
+
+---- BOILERPLATE-BELOW ----
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
